@@ -1,7 +1,7 @@
 package JavaConcepts;
 
 public class NewClass {
-	
+	//newclass
 	int englishmarks=95;  // instance variable
 
 	 int socialmarks=90;  // instance variable
